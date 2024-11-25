@@ -8,7 +8,5 @@ A Classificação Brasileira de Ocupações(CBO), instituída pelo Ministério d
 
 Este trabalho é uma versão do CBO em RDF mapeado com a ESCO Ontology
 
-## Estrutura
 
-* data: dados do projeto
   
